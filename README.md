@@ -1,7 +1,7 @@
 ## 🎮 Exe Özellikleri (Derlendiğinde)
 
 ### 🚀 Ana Özellikler
-- **Dual Render Backend**: DirectX 11 ve OpenGL arasında F1 ile geçiş
+- **Dual Render Backend**: DirectX 11/12 ve OpenGL arasında F1 ile geçiş
 - **Knight Online Terrain Viewer**: .gtd harita dosyalarını okuyup 3D render eder
 - **NTF7 Decryption**: Şifreli texture dosyalarını çözebilir
 - **Real-time Camera**: WASD hareket, mouse look, GM fly mode
@@ -11,7 +11,7 @@
 - **WASD**: Kamera hareketi
 - **Mouse + Sağ Tık**: Etrafına bakma
 - **Q**: GM fly mode açma/kapama
-- **F1**: DirectX 11 ↔ OpenGL geçiş
+- **F1**: DirectX 11/12 ↔ OpenGL geçiş
 - **Space + WASD**: Dikey hareket
 - **Mouse Wheel**: Yükseklik ayarı
 
@@ -33,7 +33,7 @@
 
 ## 🎯 Proje Hakkında
 
-Bu profesyonel bir 3D terrain viewer projesi olup, Knight Online MMORPG'sinin harita sistemini modern DirectX 11 ve OpenGL teknolojileriyle görselleştirmek için geliştirilmiş.
+Bu profesyonel bir 3D terrain viewer projesi olup, Knight Online MMORPG'sinin harita sistemini modern DirectX 11/12 ve OpenGL teknolojileriyle görselleştirmek için geliştirilmiş.
 
 ### 🔧 Derleme Gereksinimleri
 - Visual Studio 2022
