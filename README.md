@@ -35,11 +35,6 @@
 
 Bu profesyonel bir 3D terrain viewer projesi olup, Knight Online MMORPG'sinin harita sistemini modern DirectX 11/12 ve OpenGL teknolojileriyle görselleştirmek için geliştirilmiş.
 
-### 🔧 Derleme Gereksinimleri
-- Visual Studio 2022
-- DirectX 11/12 SDK
-- OpenGL 4.0+ desteği
-
 ![image2](https://github.com/user-attachments/assets/81e9024c-1f32-4611-a369-3e85180f4b32)
 ![image1](https://github.com/user-attachments/assets/d9d16aba-6a92-481e-bf9e-4df79e1e5090)
 ![image](https://github.com/user-attachments/assets/9218c0ff-98f9-4a7f-a2c2-46de620fa908)
